@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "975502953252",
+    "project_id": "loginlosverdes"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975502953252:android:7e179c6fd0c150e1",
+        "android_client_info": {
+          "package_name": "com.christianquintero.loginlosverdes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975502953252-vpt3k58h4karv0boltum3oaail9atlfr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.christianquintero.loginlosverdes",
+            "certificate_hash": "37495F60B2A0719997E90C0F68965C3338514D4C"
+          }
+        },
+        {
+          "client_id": "975502953252-vik3k06f5lcto14aeoa7p0acn1pr6r3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7budfBxIe8A4Pfw4ZOBq-o4WjEzcESzM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
