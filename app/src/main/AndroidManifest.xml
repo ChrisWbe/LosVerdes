@@ -29,6 +29,29 @@
             android:value="@string/id_aplicationFacebook" />
 
         <activity android:name=".myLogin" />
+		<activity android:name=".MainActivity">
+		</activity>
+        <activity android:name=".Hamburguesas" />
+        <activity android:name=".Chuzos" />
+        <activity android:name=".Asados" />
+        <activity android:name=".Bebidas" />
+        <activity android:name=".H1" />
+        <activity android:name=".H2" />
+        <activity android:name=".H3" />
+        <activity android:name=".H4" />
+        <activity android:name=".Carrito" />
+        <activity android:name=".A1" />
+        <activity android:name=".A2" />
+        <activity android:name=".A3" />
+        <activity android:name=".A4" />
+        <activity android:name=".C1" />
+        <activity android:name=".C2" />
+        <activity android:name=".C3" />
+        <activity android:name=".C4" />
+        <activity android:name=".B1" />
+        <activity android:name=".B2" />
+        <activity android:name=".B3" />
+        <activity android:name=".B4"/>
         <activity
             android:name="com.facebook.FacebookActivity"
             android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
@@ -56,6 +79,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+ 
     </application>
 
 </manifest>

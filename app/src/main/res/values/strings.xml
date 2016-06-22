@@ -1,6 +1,54 @@
 <resources>
-    <string name="app_name">loginLosVerdes</string>
+    <string name="app_name">Los Verdes</string>
     <string name="id_aplicationFacebook">1727330877526583</string>
     <string name="id_credenciales_cliente_web">975502953252-vik3k06f5lcto14aeoa7p0acn1pr6r3n.apps.googleusercontent.com</string>
     <string name="title_activity_my_mapa">Map</string>
+	<string name="hamburguesa1">Hamburguesa de Pechuga</string>
+    <string name="hamburguesa2">Hamburguesa Especial</string>
+    <string name="hamburguesa3">Hamburguesa Express</string>
+    <string name="hamburguesa4">Hamburguesa Premium</string>
+    <string name="h2">Pan Hsa especial, carne Hsa especial por 180 gr, doble queso, lechuga crespa, cebolla salteada con tocineta y champiñones, tomate, salsa ranch y salsa mil islas</string>
+    <string name="h1">Pan, filete de pechuga de pollo bañado en salsa BBQ de la casa, champiñones, queso, cebolla, lechuga crespa, tomate, mayonesa</string>
+    <string name="h3">Arepa, carne de hamburguesa, queso mozarella, papas a la francesa, ensalada, tocineta,huevo de codorniz, salsas</string>
+    <string name="h4">Pan, dos carnes, tocineta, ensalada, pepinillo, tomate, lechuga, queso, papa triturada, huevo de codorniz, salsa</string>
+    <string name="anadir">Añadir al Domicilio</string>
+    <string name="precioh1">$5.800</string>
+    <string name="precioh2">$7.200</string>
+    <string name="precioh3">$8.200</string>
+    <string name="precioh4">$10.400</string>
+
+    <string name="asado1">Cañón</string>
+    <string name="asado2">Churrasco</string>
+    <string name="asado3">Baby Beef</string>
+    <string name="asado4">Cañón Especial</string>
+    <string name="a1">Cañón, papas a la francesa, ensalada de repollo, arepa, queso mozarella, rodaja de tomate, salsa BBQ y salsa rosada</string>
+    <string name="a4">Solomo x 150, papas a la francesa, ensalada de repollo, arepa, queso mozarella, rodaja de tomate, huevos de codorniz y salsa rosada</string>
+    <string name="a3">Solomo carne blanda x150, papas a la francesa, ensalada de repollo, arepa, queso mozarella, rodaja de tomate y huevo de codorniz</string>
+    <string name="a2">Carne de res, cerdo, pollo y chirizo, papas a la francesa, ensalada de repollo, queso mozarella, tomate y huevos de codroniza</string>
+    <string name="precioa1">$10.800</string>
+    <string name="precioa2">$13.200</string>
+    <string name="precioa3">$15.200</string>
+    <string name="precioa4">$14.400</string>
+
+    <string name="bebida1">Limonada Natural</string>
+    <string name="bebida2">Limonada de Coco</string>
+    <string name="bebida3">Jugo Hit</string>
+    <string name="bebida4">Sangría</string>
+    <string name="preciob1">$4.500</string>
+    <string name="preciob2">$6.000</string>
+    <string name="preciob3">$2.000</string>
+    <string name="preciob4">$10.500</string>
+
+    <string name="chuzo1">Bronto Chuzo Gigante</string>
+    <string name="chuzo2">Chuzo Clásico</string>
+    <string name="chuzo3">Chuzo Especial</string>
+    <string name="chuzo4">Chuzo Mixto Especial</string>
+    <string name="c1">Chuzo de pollo de 200gr, papas a la francesa, arepa, queso mozarella, ensalada, huevos de codorniz, salsa rosada</string>
+    <string name="c2">Chuzo de cerdo de 200gr, papas a la francesa, arepa, queso mozarella, ensalada, huevos de codorniz, salsa rosada</string>
+    <string name="c3">Chuzo de cerdo de 200gr, tocineta, papas a la francesa, arepa, queso mozarella, ensalada, huevos de codorniz, salsa rosada</string>
+    <string name="c4">Chuzo de cerdo y pollo, tocineta, papas a la francesa, arepa, queso mozarella, ensalada, huevos de codorniz y salsa rosada</string>
+    <string name="precioc1">$10.800</string>
+    <string name="precioc2">$9.200</string>
+    <string name="precioc3">$11.200</string>
+    <string name="precioc4">$12.400</string>
 </resources>

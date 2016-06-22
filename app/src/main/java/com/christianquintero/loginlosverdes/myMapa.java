@@ -78,5 +78,8 @@ public class myMapa extends FragmentActivity implements OnMapReadyCallback {
         LatLng castilla = new LatLng( 6.291871930295601,-75.57214021682739);
         mMap.addMarker(new MarkerOptions().position(castilla).title("Castilla").icon(BitmapDescriptorFactory.fromResource(R.drawable.logo)));
 
+
+        LatLng medellin = new LatLng(6.244203, -75.581212);
+        mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(medellin, 12));
     }
 }
